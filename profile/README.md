@@ -5,7 +5,7 @@
   *Empowering Communities Through Innovation*
   
   [![GitHub followers](https://img.shields.io/github/followers/AbjadTech?style=social)](https://github.com/AbjadTech)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/AbjadCc?style=social)](https://twitter.com/AbjadTech)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/AbjadCc?style=social)](https://twitter.com/AbjadCc)
 </div>
 
 ## 🌟 Who We Are
