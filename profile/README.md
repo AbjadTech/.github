@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/abjd_logo_blue.png" alt="Abjad Tech Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/AbjadTech/.github/refs/heads/master/profile/assets/abjd_logo_blue.png" alt="Abjad Tech Logo" width="200"/>
   
   # 🚀 Abjad Tech
   *Empowering Communities Through Innovation*
