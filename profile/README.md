@@ -44,6 +44,18 @@ Think of us as the digital alchemists who transform complex challenges into eleg
 - 🤝 **Open Source Champions**: We believe in giving back to the developer community
 - 🌍 **Global Mindset**: Our solutions are designed to work across cultures and borders
 
+## 🤝 Support Us
+
+If you’d like to support our journey, consider sponsoring us on GitHub or sharing our projects to spread the word. Your support helps us build more tools for the community and invest in new, innovative projects.
+
+## ❓ FAQ
+
+**Q: What does "Abjad" mean?**
+A: "Abjad" refers to a traditional Arabic script, symbolizing innovation and creativity, which resonates with our mission to build community-focused tools.
+
+**Q: How can I get involved?**
+A: You can contribute to our projects on GitHub, follow us on social media, or simply reach out with ideas and feedback!
+
 
 ---
 
